@@ -1,4 +1,10 @@
 # Skills list (includes Git repo links)
+### Info
+- Skills are listed in chronological order atm (12th Nov)
+- Links are Git repo links, just paste into commands and it should work
+
+### Test skill
+https://github.com/treecko16/test-skill-skill.git
 
 ### Hello World attempt 2
 https://github.com/treecko16/hello-world-attempt-two-skill.git
