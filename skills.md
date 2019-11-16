@@ -9,3 +9,5 @@ https://github.com/treecko16/test-skill-skill.git
 ### Hello World attempt 2
 https://github.com/treecko16/hello-world-attempt-two-skill.git
 
+### Matrix viewer
+https://github.com/treecko16/matrix-viewer-skill.git
